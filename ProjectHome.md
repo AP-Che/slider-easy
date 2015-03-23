@@ -1,0 +1,1 @@
+Easy Slider 1.7 - jQuery plugin
